@@ -2,11 +2,9 @@ h1. Awesome Textpattern <a href="https://github.com/sindresorhus/awesome"><img s
 
 A curated list of amazingly awesome "Textpattern CMS":http://textpattern.com plugins, resources and shiny things.
 
-*This list is for the latest version of Textpattern (v4.7.x).* For Textpattern v4.6.x see the "txp-4.6 branch":https://github.com/drmonkeyninja/awesome-textpattern/tree/txp-4.6.
-
 h2. Contributing
 
-This list is for the community and curated by it, so please contribute. See "CONTRIBUTING":https://github.com/drmonkeyninja/awesome-textpattern/blob/master/CONTRIBUTING.textile for details.
+This list is for the community and curated by it, so please contribute. See "CONTRIBUTING":https://github.com/textpattern-community/awesome-textpattern/blob/master/CONTRIBUTING.textile for details.
 
 h2. Contents
 
@@ -162,7 +160,6 @@ h3(#software-integration). Web development software integration
 h2(#community). Community
 
 * "@textpattern on Twitter":https://twitter.com/textpattern
-* "Google+":https://plus.google.com/u/0/communities/111366418300163664690
 * "Textpattern Forum":https://forum.textpattern.com/
 
 h3(#core-team). Core Team
