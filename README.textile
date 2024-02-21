@@ -4,7 +4,7 @@ A curated list of amazingly awesome "Textpattern CMS":https://textpattern.com pl
 
 h2. Contributing
 
-This list is for the community and curated by it, so please contribute. See "CONTRIBUTING":httpss://github.com/textpattern-community/awesome-textpattern/blob/master/CONTRIBUTING.textile for details.
+This list is for the community and curated by it, so please contribute. See "CONTRIBUTING":httpss://github.com/textpattern-community/awesome-textpattern/blob/master/CONTRIBUTING.md for details.
 
 h2. Contents
 
