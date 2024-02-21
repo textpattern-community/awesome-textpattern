@@ -2,7 +2,8 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
-* Plugins linked to should be open source, free to use and preferably hosted on GitHub (links should be to the GitHub repository rather than the plugins homepage/forum thread).
+* Linked plugins should be open source, free to use and preferably hosted on GitHub
+* Please link to the GitHub repository rather than the plugin homepage/forum thread.
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
 * Code, comments and documentation need to be in English.
 * Please make an individual pull request for each suggestion.
