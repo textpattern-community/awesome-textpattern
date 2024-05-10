@@ -303,11 +303,6 @@ Alphabetical order by author prefixes
 
 ## License
 
-`<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">`{=html}`<img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />`{=html}`</a>`{=html}`<br />`{=html}`<span xmlns:dct="https://purl.org/dc/terms/" property="dct:title">`{=html}Awesome
-Textpattern`</span>`{=html} by
-`<a xmlns:cc="https://creativecommons.org/ns#" href="https://andy-carter.com" property="cc:attributionName" rel="cc:attributionURL">`{=html}Andy
-Carter`</a>`{=html} and
-`<a xmlns:cc="https://creativecommons.org/ns#" href="https://textpattern.com" property="cc:attributionName" rel="cc:attributionURL">`{=html}Team
-Textpattern`</a>`{=html} is licensed under a
-`<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">`{=html}Creative
-Commons Attribution-ShareAlike 4.0 International License`</a>`{=html}.
+[Creative
+Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
+Awesome Textpattern by [Andy Carter](https://andy-carter.com) and (Team Textpattern)[https://textpattern.com].
